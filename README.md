@@ -2,7 +2,9 @@
 # Space shooter using Pygame #
 
 ## Game preview
-![alt text for screen readers](./Screenshot.jpg "Text to show on mouseover")
+
+
+![Game Preview](./Screenshot .jpg "Space Shooter")
 
 
 ### Steps to install this game locally
