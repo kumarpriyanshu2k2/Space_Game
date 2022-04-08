@@ -4,7 +4,7 @@
 ## Game preview
 
 
-![Game Preview](Screenshot.jpg "Space Shooter")
+![alt text for screen readers](./Screenshot.jpg "Text to show on mouseover")
 
 
 ### Steps to install this game locally
