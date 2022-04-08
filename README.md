@@ -4,7 +4,7 @@
 ## Game preview
 
 
-![Game Preview](./Screenshot.jpg "Space Shooter")
+![Game Preview](Screenshot.jpg "Space Shooter")
 
 
 ### Steps to install this game locally
