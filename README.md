@@ -4,7 +4,7 @@
 ## Game preview
 
 
-![alt text for screen readers](./Screenshot.jpg "Text to show on mouseover")
+![alt text for screen readers](Space_Game/Screenshot .jpg "Text to show on mouseover")
 
 
 ### Steps to install this game locally
